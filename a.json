@@ -1,0 +1,112 @@
+{
+  "data": {
+    "didi_applets_pay_banner": [
+      {
+        "T": "banner",
+        "activity_id": 1039719,
+        "click_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=6\u0026plt=1\u0026os=iOS10.0.1\u0026apv=6.3.18\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sld=2\u0026stt=0\u0026bus=260\u0026ori=1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026sn=\u0026fit=1648103966156\u0026sch=249761\u0026st=1648103966156\u0026fn=1\u0026lng=116.298450\u0026act=1039719\u0026ct=0\u0026cm=0\u0026mt=0\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026deid=\u0026ht=0\u0026req=39e39220-ed83-40fd-bc05-6e4d19ca174b\u0026dut=__DURATION__\u0026ant=232\u0026sbk=110302\u0026fbk=110000\u0026sat=__STARTTIME__\u0026cst=1648103965838\u0026sg=cafe04589cb689429fe31821721492c07aaaf9e6357b9804409121ef275fc438\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026tkt=\u0026phb=\u0026wd=0\u0026uid=299069762774244\u0026res=261\u0026cost=0\u0026ft=1\u0026idsp=1\u0026rt=1648103966131\u0026idfa=\u0026bt=0\u0026oaid=\u0026cit=1\u0026lat=39.959330\u0026unt=897361\u0026it=1\u0026ent=__ENDTIME__\u0026chn=1100000003"
+        ],
+        "close_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=7\u0026cit=1\u0026lat=39.959330\u0026unt=897361\u0026it=1\u0026ent=__ENDTIME__\u0026chn=1100000003\u0026bt=0\u0026oaid=\u0026apv=6.3.18\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sld=2\u0026stt=0\u0026bus=260\u0026plt=1\u0026os=iOS10.0.1\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026sn=\u0026fit=1648103966156\u0026sch=249761\u0026ori=1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026lng=116.298450\u0026st=1648103966156\u0026fn=1\u0026cm=0\u0026mt=0\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026deid=\u0026ht=0\u0026req=39e39220-ed83-40fd-bc05-6e4d19ca174b\u0026act=1039719\u0026ct=0\u0026ant=232\u0026dut=__DURATION__\u0026sat=__STARTTIME__\u0026cst=1648103965838\u0026sg=275eeef7a6bba5cb8e0d74608cc202bd22c6938aabd46335ea545e8514535c7c\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sbk=110302\u0026fbk=110000\u0026wd=0\u0026uid=299069762774244\u0026res=261\u0026tkt=\u0026phb=\u0026idsp=1\u0026rt=1648103966131\u0026idfa=\u0026cost=0\u0026ft=1"
+        ],
+        "file_size": 30498,
+        "image": "https://img-ys011.didistatic.com/static/ad_oss/1646042093_v906s.png",
+        "imp_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=5\u0026ent=__ENDTIME__\u0026cit=1\u0026sld=2\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026cm=0\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sat=__STARTTIME__\u0026ft=1\u0026bt=0\u0026apv=6.3.18\u0026sch=249761\u0026st=1648103966156\u0026mt=0\u0026sn=\u0026act=1039719\u0026phb=\u0026res=261\u0026tkt=\u0026uid=299069762774244\u0026idfa=\u0026it=1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026lng=116.298450\u0026req=39e39220-ed83-40fd-bc05-6e4d19ca174b\u0026unt=897361\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026stt=0\u0026fn=1\u0026ht=0\u0026chn=1100000003\u0026sbk=110302\u0026fbk=110000\u0026wd=0\u0026idsp=1\u0026lat=39.959330\u0026ori=1\u0026ant=232\u0026dut=__DURATION__\u0026bus=260\u0026rt=1648103966131\u0026oaid=\u0026plt=1\u0026os=iOS10.0.1\u0026sg=7ea1c2b85e9839ca073c415b1872725facc3183a98c4e2f1d075709916845b96\u0026fit=1648103966156\u0026deid=\u0026cst=1648103965838\u0026ct=0\u0026cost=0"
+        ],
+        "is_ad": 0,
+        "is_commercial_ad": false,
+        "link": "https://v.didi.cn/p/GYJD0Pm",
+        "log_data": {
+          "act_id": 1039719,
+          "apolloGroupName": "",
+          "business_id": "260",
+          "city_id": 1,
+          "cost": 0,
+          "entrance_channel": "",
+          "entrance_yewuxian": 0,
+          "is_commercial_ad": false,
+          "order_id": "TWprd056WXpOamsxTnpVMk9ESTNPREE1",
+          "pvid": "450afae0-c809-476d-8a0c-1c7030eb786b",
+          "resource_id": "261",
+          "resource_name": "didi_applets_pay_banner",
+          "schedule_id": "249761",
+          "slide_id": 2,
+          "trace_id": "8377306a623c121d863defa6102a0d6f",
+          "type": "engine",
+          "uid": 299069762774244,
+          "unit_id": "897361",
+          "work_flow_id": "eve_ads_default_20210427114416350-random"
+        },
+        "muilt_size": 4,
+        "priority": 420,
+        "resname": "didi_applets_pay_banner",
+        "schedule_id": 430261,
+        "slide_id": 2,
+        "timesegs": [
+          {
+            "end_time": 1651334399,
+            "start_time": 1646064000
+          }
+        ],
+        "type": "banner",
+        "webview_contentdata": {}
+      },
+      {
+        "T": "banner",
+        "activity_id": 1051047,
+        "click_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=6\u0026oaid=\u0026apv=6.3.18\u0026cit=1\u0026unt=906343\u0026cst=1648103965838\u0026sch=251731\u0026cm=0\u0026stt=0\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026dut=__DURATION__\u0026sn=\u0026mt=0\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026os=iOS10.0.1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026sat=__STARTTIME__\u0026fit=1648103966156\u0026plt=1\u0026sld=3\u0026st=1648103966156\u0026fn=1\u0026idsp=1\u0026fbk=170400\u0026req=d5b4e96d-588e-4f22-9997-e8bcf2f3025f\u0026ct=0\u0026tkt=\u0026deid=\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sbk=170401\u0026ent=__ENDTIME__\u0026bus=260\u0026bt=0\u0026lng=116.298450\u0026lat=39.959330\u0026cost=0\u0026ft=1\u0026sg=bb0d67a053fe503a69d055b44fb56202fc93c9f78c117c2402d6580a62fbcb2e\u0026ant=827\u0026it=1\u0026chn=1100000003\u0026ori=1\u0026idfa=\u0026phb=\u0026ht=0\u0026uid=299069762774244\u0026rt=1648103966131\u0026res=261\u0026act=1051047\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026wd=0"
+        ],
+        "close_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=7\u0026it=1\u0026chn=1100000003\u0026ori=1\u0026idfa=\u0026phb=\u0026ht=0\u0026uid=299069762774244\u0026ant=827\u0026rt=1648103966131\u0026res=261\u0026act=1051047\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026wd=0\u0026oaid=\u0026apv=6.3.18\u0026cit=1\u0026unt=906343\u0026sch=251731\u0026cm=0\u0026stt=0\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026dut=__DURATION__\u0026sn=\u0026cst=1648103965838\u0026mt=0\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026os=iOS10.0.1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026sat=__STARTTIME__\u0026plt=1\u0026sld=3\u0026st=1648103966156\u0026fn=1\u0026idsp=1\u0026fbk=170400\u0026fit=1648103966156\u0026req=d5b4e96d-588e-4f22-9997-e8bcf2f3025f\u0026ct=0\u0026tkt=\u0026deid=\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026sbk=170401\u0026bus=260\u0026bt=0\u0026lng=116.298450\u0026lat=39.959330\u0026cost=0\u0026ft=1\u0026ent=__ENDTIME__\u0026sg=e7c2c65df37176ff3e33da4e6a67b6a4f42681f35728ca3d502ff6e790a9786c"
+        ],
+        "file_size": 0,
+        "image": "https://img-ys011.didistatic.com/static/ad_oss/1647521260_is615.png",
+        "imp_tracks": [
+          "https://adtrack.xiaojukeji.com/trackx?eid=5\u0026fit=1648103966156\u0026deid=\u0026rt=1648103966131\u0026oid=TWprd056WXpOamsxTnpVMk9ESTNPREE1\u0026os=iOS10.0.1\u0026wkt=8377306a623c121d863defa6102a0d6f\u0026sat=__STARTTIME__\u0026idsp=1\u0026plt=1\u0026tkt=\u0026ent=__ENDTIME__\u0026it=1\u0026lat=39.959330\u0026ht=0\u0026ant=827\u0026dut=__DURATION__\u0026sld=3\u0026fn=1\u0026bt=0\u0026lng=116.298450\u0026act=1051047\u0026oaid=\u0026sg=8529d03d328b891494d0b71ff9ff156f29fbf8f668c500ce0331192e1ac9938f\u0026phb=\u0026wd=0\u0026bus=260\u0026ori=1\u0026tkn=Y_SHekAYoL33z9MhpVe9-yNBiUGe5D7F43nR_MA556ckxTlOBjEMhuG7vLX163PiJGPfhmVYmiCBqEZzdwqq52KLoj_0EMZ2yo3dqD6kNHanfI2MdUxXei5jByVjDwqMp3-eqZapmWu2taJFGK9UxDJO6uLn6_f75aSGpLyNN8pnHK6eoxvvFJJ8yvPwxPigcIxPSvdfAAAA__8=\u0026cm=0\u0026sch=251731\u0026mt=0\u0026req=d5b4e96d-588e-4f22-9997-e8bcf2f3025f\u0026cost=0\u0026unt=906343\u0026sn=\u0026st=1648103966156\u0026sbk=170401\u0026ft=1\u0026apv=6.3.18\u0026res=261\u0026cst=1648103965838\u0026fbk=170400\u0026ct=0\u0026openid=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026chn=1100000003\u0026stt=0\u0026ddfp=oJJUI0R2gcp8j6Y9HD8oGtJYmP1U\u0026idfa=\u0026uid=299069762774244\u0026cit=1"
+        ],
+        "is_ad": 0,
+        "is_commercial_ad": false,
+        "link": "https://z.didi.cn/iNSnVS",
+        "log_data": {
+          "act_id": 1051047,
+          "apolloGroupName": "",
+          "business_id": "260",
+          "city_id": 1,
+          "cost": 0,
+          "entrance_channel": "",
+          "entrance_yewuxian": 0,
+          "is_commercial_ad": false,
+          "order_id": "TWprd056WXpOamsxTnpVMk9ESTNPREE1",
+          "pvid": "450afae0-c809-476d-8a0c-1c7030eb786b",
+          "resource_id": "261",
+          "resource_name": "didi_applets_pay_banner",
+          "schedule_id": "251731",
+          "slide_id": 3,
+          "trace_id": "8377306a623c121d863defa6102a0d6f",
+          "type": "engine",
+          "uid": 299069762774244,
+          "unit_id": "906343",
+          "work_flow_id": "eve_ads_default_20210427114416350-random"
+        },
+        "muilt_size": 4,
+        "priority": 500,
+        "resname": "didi_applets_pay_banner",
+        "schedule_id": 434799,
+        "slide_id": 3,
+        "timesegs": [
+          {
+            "end_time": 1648742399,
+            "start_time": 1647446400
+          }
+        ],
+        "type": "banner",
+        "webview_contentdata": {}
+      }
+    ]
+  },
+  "errmsg": "success",
+  "errno": 0
+}
